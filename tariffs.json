@@ -1,0 +1,7 @@
+[
+  { "carrierName": "DHL", "minWeight": 0, "maxWeight": 10, "price": 5, "minPrice": 12, "maxPrice": 40,"zone": "EU", "deliveryTime": "1-2 days" },
+  { "carrierName": "FedEx", "minWeight": 0, "maxWeight": 15, "price": 6, "minPrice": 10, "maxPrice": 65,"zone": "EU", "deliveryTime": "2-3 days" },
+  { "carrierName": "Ceska Posta", "minWeight": 0, "maxWeight": 5, "price": 3, "minPrice": 4, "maxPrice": 15,"zone": "Local", "deliveryTime": "3-5 days" },
+  { "carrierName": "PPL", "minWeight": 5, "maxWeight": 30, "price": 4, "minPrice": 5, "maxPrice": 40,"zone": "Local", "deliveryTime": "24 hours" },
+  { "carrierName": "UPS", "minWeight": 0, "maxWeight": 20, "price": 7, "minPrice": 21, "maxPrice": 140,"zone": "USA", "deliveryTime": "10-12 days" }
+]
